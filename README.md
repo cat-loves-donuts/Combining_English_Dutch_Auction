@@ -1,6 +1,8 @@
 # Combining_English_Dutch_Auction
 Using English auctin first and then based on the number of rounds change the stratage to Dutch
 
+First before the first, this code does not use any kind of package for message exchange. The code will read a list which is dounle of the number of the bidders. There are various of information of this auction like Auction ID, Auctioneer ID, Good name, Initial price and everything.
+
 I wrote 3 files:
 The first one is called Auctioneer which have the definition of the auctioneer agent. 
 To create a auctioneer agent, the user needs to enter 11 different inputs and most of those inputs are good information. 
