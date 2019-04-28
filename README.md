@@ -2,7 +2,7 @@
 Using English auctin first and then based on the number of rounds change the stratage to Dutch
 
 
-# Eh.........This is the first version and have a lot of problems.....please do not be so serious.....Thank you.....
+# Eh.........This is the second version and have a lot of problems.....please do not be so serious.....Thank you.....
 
 
 # First before the first, this code does not use any kind of package for message exchange. The code will read a list which is dounle of the number of the bidders. There are various of information of this auction like Auction ID, Auctioneer ID, Good name, Initial price and everything.
